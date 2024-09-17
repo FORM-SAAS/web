@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) SAAS project being developed to enhance data management using advanced, customizable forms
 
 ## Getting Started
 
-First, run the development server:
+If the access to this repository has given to you, head over to your github account. Go to your Profile > Your Organizations:
 
 ```bash
 npm run dev
